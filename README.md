@@ -27,7 +27,6 @@
 
 ## 📷 Preview
 
-
 ![App UI](![alt text](image.png))  
 User interface built with Streamlit.
 
