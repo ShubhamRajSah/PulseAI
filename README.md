@@ -27,10 +27,10 @@
 
 ## 📷 Preview
 
-![App UI](![alt text](image.png))  
+![App UI](screenshot/screenshot_UI.png)  
 User interface built with Streamlit.
 
-![SHAP Plot](![alt text](image-1.png))  
+![SHAP Plot](screenshot/screenshot_barplot.png)  
 SHAP-based feature importance for explainability.
 
 ---
