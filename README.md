@@ -86,7 +86,7 @@ We use SHAP (SHapley Additive exPlanations) to give transparent insights into ho
 
 🔗 Live Demo
 
-👉 Try PulseAI Live  
+👉 Try PulseAI Live  : https://pulseai-gwm8tcaydb8mmjnrxxqg9x.streamlit.app/
 No login required — just input your details and get instant results.
 
 ---
